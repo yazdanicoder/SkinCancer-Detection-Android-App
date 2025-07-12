@@ -28,7 +28,7 @@ To get started with this project, follow these steps:
 
 1. Cloning the repository
 
-`git clone https://github.com/DJDarkCyber/Fake-News-Detector`
+`git clone https://github.com/yazdanicoder/Fake-News-Detector`
 
 2. Install the required libraries for python
 
