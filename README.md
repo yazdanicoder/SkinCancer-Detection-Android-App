@@ -65,9 +65,8 @@ I welcome contributions from fellow developers. If you have ideas for new featur
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out to me at [dark_agent_437@protonmail.com](dark_agent_437@protonmail.com).
+If you have any questions or suggestions, feel free to reach out to me at [dark_agent_437@protonmail.com](muhammadyazdani164@gmail.com).
 
-If you have any issues, raise [issue](https://github.com/DJDarkCyber/Fake-News-Detector/issues).
 
 Thank you for considering contributing to the Fake News Detector project. Together, we can make a positive impact on the fight against misinformation.
 
